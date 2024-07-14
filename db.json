@@ -7,7 +7,7 @@
       "image": "Skorpekh-160x100.jpg",
       "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": []
+      "status": "leader_1"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "image": "Skorpekh-160x100.jpg",
       "power": "Enchantman",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": []
+      "status": "leader_1"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "image": "ROYAL-WARDEN.jpg",
       "power": "Enchantman",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": []
+      "status": "leader_2"
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "image": "TECHNOMANCER.jpg",
       "power": "Enchantman",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": []
+      "status": "leader_3"
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "pts": "65 pts",
       "image": "PLASMANCER.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": []
+      "status": "leader_4"
     },
     {
       "id": "7",
@@ -51,13 +51,13 @@
       "image": "Skorpekh-160x100.jpg",
       "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": []
+      "status": "leader_1"
     }
   ],
   "wahaOther": [
     {
       "id": "1",
-      "unit": 1,
+      "unit": "leader_2",
       "name": "Annihilation-barge",
       "pts": "115 pts",
       "image": "ANNIHILATION-BARGE.jpg",
@@ -67,7 +67,7 @@
     },
     {
       "id": "2",
-      "unit": 1,
+      "unit": "leader_1",
       "name": "Skorpekh destroyers x6",
       "pts": "180 pts",
       "image": "SKORPEKH-DESTROYERS.jpg",
@@ -76,7 +76,7 @@
     },
     {
       "id": "3",
-      "unit": 2,
+      "unit": "leader_1",
       "name": "Skorpekh destroyers x3",
       "pts": "90 pts",
       "image": "SKORPEKH-DESTROYERS.jpg",
