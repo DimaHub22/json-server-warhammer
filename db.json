@@ -21,90 +21,64 @@
       "image": "add_unit.png"
     }
   ],
-  "waha": [
+  "characters": [
     {
       "id": "1",
       "name": "Skorpekh Lord",
-      "pts": "80 pts",
+      "pts": 80,
       "image": "Skorpekh-160x100.jpg",
       "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "status": "leader_1"
     },
     {
       "id": "2",
-      "name": "Skorpekh Lord",
-      "pts": "80 pts",
-      "image": "Skorpekh-160x100.jpg",
-      "power": "Enchantman",
+      "name": "Royal Warden",
+      "pts": 40,
+      "image": "ROYAL-WARDEN.jpg",
+      "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "status": "leader_1"
     },
     {
       "id": "3",
-      "name": "Royal Warden",
-      "pts": "40 pts",
-      "image": "ROYAL-WARDEN.jpg",
-      "power": "Enchantman",
+      "name": "Technomancer",
+      "pts": 85,
+      "image": "TECHNOMANCER.jpg",
+      "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "status": "leader_2"
     },
     {
       "id": "4",
-      "name": "Technomancer",
-      "pts": "85 pts",
-      "image": "TECHNOMANCER.jpg",
-      "power": "Enchantman",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "status": "leader_3"
-    },
-    {
-      "id": "5",
       "name": "Plasmancer",
-      "pts": "65 pts",
+      "pts": 65,
       "image": "PLASMANCER.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "status": "leader_4"
-    },
-    {
-      "id": "7",
-      "name": "Skorpekh Lord",
-      "pts": "80 pts",
-      "image": "Skorpekh-160x100.jpg",
       "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "status": "leader_1"
     }
   ],
-  "wahaOther": [
+  "others": [
     {
       "id": "1",
-      "unit": "leader_2",
       "name": "Annihilation-barge",
-      "pts": "115 pts",
+      "pts": 115,
       "image": "ANNIHILATION-BARGE.jpg",
       "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": false
+
     },
     {
       "id": "2",
-      "unit": "leader_1",
       "name": "Skorpekh destroyers x6",
-      "pts": "180 pts",
+      "pts": 180,
       "image": "SKORPEKH-DESTROYERS.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": false
     },
     {
       "id": "3",
-      "unit": "leader_1",
       "name": "Skorpekh destroyers x3",
-      "pts": "90 pts",
+      "pts": 90,
       "image": "SKORPEKH-DESTROYERS.jpg",
       "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "user": false
     }
   ],
   "addedUnits": [],
