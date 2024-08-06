@@ -94,15 +94,18 @@
       "items": [
         {
           "id": "1",
-          "name": "Black Templars"
+          "name": "Black Templars",
+          "image": "templars.png"
         },
         {
           "id": "2",
-          "name": "Blood Angels"
+          "name": "Blood Angels",
+          "image": "blood.png"
         },
         {
           "id": "3",
-          "name": "Dark Angels"
+          "name": "Dark Angels",
+          "image": "dark.png"
         }
       ]
     },
@@ -111,7 +114,8 @@
       "items": [
         {
           "id": "1",
-          "name": "Necrons"
+          "name": "Necrons",
+          "image": "necrons.png"
         }
       ]
     }
