@@ -1,4 +1,5 @@
 {
+  "listName": [],
   "waha": [
     {
       "id": "1",
@@ -86,5 +87,34 @@
     }
   ],
   "addedUnits": [],
-  "users": []
+  "users": [],
+  "codexList": [
+    {
+      "title": "Adeptus Astartes",
+      "items": [
+        {
+          "id": "1",
+          "name": "Black Templars"
+        },
+        {
+          "id": "2",
+          "name": "Blood Angels"
+        },
+        {
+          "id": "3",
+          "name": "Dark Angels"
+        }
+      ]
+    },
+    {
+      "title": "Xenos",
+      "items": [
+        {
+          "id": "1",
+          "name": "Necrons"
+        }
+      ]
+    }
+
+  ]
 }
