@@ -1,5 +1,26 @@
 {
-  "listName": [],
+  "categories": [
+    {
+      "id": "1",
+      "category": "Characters",
+      "image": "add_unit.png"
+    },
+    {
+      "id": "2",
+      "category": "Batteline",
+      "image": "add_unit.png"
+    },
+    {
+      "id": "3",
+      "category": "Transport",
+      "image": "add_unit.png"
+    },
+    {
+      "id": "4",
+      "category": "Others",
+      "image": "add_unit.png"
+    }
+  ],
   "waha": [
     {
       "id": "1",
@@ -119,6 +140,5 @@
         }
       ]
     }
-
   ]
 }
