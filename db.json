@@ -21,9 +21,10 @@
       "image": "add_unit.png"
     }
   ],
-  "characters": [
+  "units": [
     {
       "id": "1",
+      "categoryId": "1",
       "name": "Skorpekh Lord",
       "pts": 80,
       "image": "Skorpekh-160x100.jpg",
@@ -32,6 +33,7 @@
     },
     {
       "id": "2",
+      "categoryId": "1",
       "name": "Royal Warden",
       "pts": 40,
       "image": "ROYAL-WARDEN.jpg",
@@ -40,6 +42,7 @@
     },
     {
       "id": "3",
+      "categoryId": "1",
       "name": "Technomancer",
       "pts": 85,
       "image": "TECHNOMANCER.jpg",
@@ -48,16 +51,16 @@
     },
     {
       "id": "4",
+      "categoryId": "1",
       "name": "Plasmancer",
       "pts": 65,
       "image": "PLASMANCER.jpg",
       "power": "",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    }
-  ],
-  "others": [
+    },
     {
-      "id": "1",
+      "id": "5",
+      "categoryId": "4",
       "name": "Annihilation-barge",
       "pts": 115,
       "image": "ANNIHILATION-BARGE.jpg",
@@ -66,14 +69,16 @@
 
     },
     {
-      "id": "2",
+      "id": "6",
+      "categoryId": "4",
       "name": "Skorpekh destroyers x6",
       "pts": 180,
       "image": "SKORPEKH-DESTROYERS.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     },
     {
-      "id": "3",
+      "id": "7",
+      "categoryId": "4",
       "name": "Skorpekh destroyers x3",
       "pts": 90,
       "image": "SKORPEKH-DESTROYERS.jpg",
@@ -81,6 +86,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     }
   ],
+
   "addedUnits": [],
   "users": [],
   "codexList": [
