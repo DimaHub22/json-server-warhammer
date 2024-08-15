@@ -100,7 +100,13 @@
   ],
 
   "addedUnits": [],
-  "users": [],
+  "users": [
+    {
+      "name": "dima",
+      "email": "dima@gmail.com",
+      "id": 1
+    }
+  ],
   "codexList": [
     {
       "title": "Adeptus Astartes",
